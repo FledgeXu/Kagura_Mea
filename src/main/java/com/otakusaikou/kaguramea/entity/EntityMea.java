@@ -22,7 +22,7 @@ import net.minecraft.world.World;
 public class EntityMea extends EntityAnimal {
     public EntityMea(World worldIn) {
         super(worldIn);
-        this.setSize(0.9F, 1.4F);
+        this.setSize(1.0F, 2.0F);
     }
 
     public boolean processInteract(EntityPlayer player, EnumHand hand) {

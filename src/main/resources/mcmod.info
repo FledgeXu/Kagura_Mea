@@ -3,7 +3,7 @@
   "modid": "kagura_mea",
   "name": "Kagura Mea",
   "description": "This mod makes an entity which is Vtuber called Kagura Mea",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
