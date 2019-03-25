@@ -1,0 +1,42 @@
+{
+  "entity.mea.please_give_me_money": {
+    "category": "entity",
+    "subtitle": "entity.mea.please_give_me_money",
+    "sounds": [
+      {
+        "name": "kagura_mea:entity/mea/please_give_me_money",
+        "stream": true
+      }
+    ]
+  },
+  "entity.mea.scream": {
+    "category": "entity",
+    "subtitle": "entity.mea.scream",
+    "sounds": [
+      {
+        "name": "kagura_mea:entity/mea/scream",
+        "stream": true
+      }
+    ]
+  },
+  "entity.mea.thanks": {
+    "category": "entity",
+    "subtitle": "entity.mea.thanks",
+    "sounds": [
+      {
+        "name": "kagura_mea:entity/mea/thanks",
+        "stream": true
+      }
+    ]
+  },
+  "entity.mea.death": {
+    "category": "entity",
+    "subtitle": "entity.mea.death",
+    "sounds": [
+      {
+        "name": "kagura_mea:entity/mea/death",
+        "stream": true
+      }
+    ]
+  }
+}
